@@ -26,14 +26,6 @@ This project explores the Titanic dataset using **Python (Pandas, Matplotlib, Se
 * Fare: Higher fares correlated with better survival rates.
 * Embarkation: Passengers from Cherbourg (C) had higher survival rates compared to Southampton (S).
 
-📁 Project Structure
-titanic-analysis/
-│
-├── titanic.csv              # Dataset
-├── analysis.ipynb           # Jupyter Notebook with code & visuals
-├── Titanic_Analysis_Report.pdf  # PDF report of findings
-└── README.md                # Project documentation
-
 ## 🚀 Tools & Libraries
 * Python
 * Pandas – data manipulation
